@@ -1,4 +1,3 @@
-import { platformBrowserDynamic } from '@angular/platform-browser-dynamic';
 import { provideRouter } from '@angular/router';
 import { bootstrapApplication, provideProtractorTestingSupport } from '@angular/platform-browser';
 
